@@ -5,4 +5,4 @@ uMD0 interfaces with the uMD GUI via USB on Windows PCs.
 
 For more information, please see: https://repairfaq.org/sam/uMD0/uMD0.htm .
 
-Copyright (c) Samuel M. Goldwasser and Jan Beck, 1994-2024, all rights reserved
+Copyright (c) Samuel M. Goldwasser and Jan Beck, 1994-2024, all rights reserved.
